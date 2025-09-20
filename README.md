@@ -1,30 +1,23 @@
-# 👋 Olá, eu sou Igor da Silva Neves
+## 👋 Oiii eu sou Igor da Silva Neves, estudante de Engenharia de Software na Universidade de Mogi das Cruzes (UMC)!
 
-🎓 Atualmente sou estudante de **Engenharia de Software** na **Universidade de Mogi das Cruzes (UMC)**.  
-💻 Tenho conhecimento em **Python, Java, JavaScript, HTML, CSS e Banco de Dados: MySQL**. 
-🚀 Estou sempre em busca de aprendizado e novas experiências na área de **desenvolvimento de software**.  
+🎓 Atualmente estudo **Engenharia de Software**.  
+💻 Tenho conhecimento em **Python, Java, JavaScript, HTML, CSS e MySQL**.  
+🚀 Estou sempre em busca de aprender mais na área de **desenvolvimento de software**.  
 
----
+<div style="display: inline_block"><br>
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+  
+##
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, Java, JavaScript  
-- **Web:** HTML5, CSS3  
-- **Banco de Dados:** SQL  
-- **Outros:** Git & GitHub, lógica de programação  
+<div> 
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
----
-
-## 📚 Atualmente aprendendo
-- Boas práticas de desenvolvimento  
-- Estruturas de dados e algoritmos  
-- Desenvolvimento web e integração com banco de dados  
-
----
-
-## 📫 Como me encontrar
-- LinkedIn: **linkedin.com/in/igor-neves-6246182b7** 
-- ✉️ Email: **igornevesreg@gmail.com**  
-
----
-
-⭐ Aqui no GitHub compartilho meus projetos e minha evolução como desenvolvedor. 
